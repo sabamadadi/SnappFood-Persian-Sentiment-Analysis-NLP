@@ -1,2 +1,3 @@
-# SnappFood---Persian-Sentiment-Analysis-NLP-
-Providing sentiment analysis of user opinions on Snappfood using NLP techniques!
+# SnappFood (Persian Sentiment Analysis) NLP
+Sentiment Analysis of Snappfood using NLP has been performed with the help of the dataset available at [🔗](https://www.kaggle.com/datasets/soheiltehranipour/snappfood-persian-sentiment-analysis).
+By reading report, you can access more information!
